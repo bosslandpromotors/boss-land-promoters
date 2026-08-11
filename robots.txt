@@ -1,0 +1,4 @@
+User-agent: *
+Allow: /
+
+Sitemap: https://bosslandpromotors.github.io/boss-land-promoters/sitemap.xml
